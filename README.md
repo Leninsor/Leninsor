@@ -24,6 +24,11 @@
   - [Capstone Project](https://github.com/Leninsor)
 
 
+<h2>📄 Certifications:</h2>
+
+  - [Google Cybersecurity Professional Certificate](https://www.credly.com/badges/34455df1-641c-4a2b-b66c-07498f0edff7/public_url)
+
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="SoniaAkoto | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
